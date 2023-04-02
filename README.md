@@ -4,9 +4,9 @@ This is a Python script that sends messages over a WebSocket connection and reco
 
 ## Requirements
 
-Python 3.x
-websocket-client
-Matplotlib
+- Python 3.x
+- websocket-client
+- Matplotlib
 
 ## Usage
 
